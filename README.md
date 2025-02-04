@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaszstrr
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👀 I’m interested in back-end
+- 🌱 I’m currently learning PHP, Python
 - 💞️ I’m looking to collaborate on any place
 - 📫 How to reach me: insta - @lucaszstr
 
